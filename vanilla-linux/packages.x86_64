@@ -109,7 +109,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 vpnc
 wireless-regdb
 wireless_tools
@@ -118,3 +118,10 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+
+## Plasma Desktop
+xorg
+plasma-meta
+kde-applications-meta
+packagekit-qt5
